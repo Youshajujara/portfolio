@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* Navbar */
+
+.bg-custom-nav {
+    background-color: rgb(0, 0, 0, 0.5) !important;
+}
+.navbar-brand {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+
+.nav-link {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+/*  card */
+
+
+.card{
+    margin-top: 50px !important;
+    background-color:silver !important;
+    padding: 5px;
+    margin: 40px;
+}
+
+.card-text, .card-subtitle{
+    font-size: larger;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    
+    font-size: 90px !important;
+}
+
+/* Footer */
+
+.bg-footer {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.btn-custom {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: beige !important;
+    /* background-color: #fdbfc9; */
+}
+
+.social-media-head {
+    font-size: 30px;
+    color: beige !important;
+}
+
+.top {
+    position: fixed;
+    right: 3%;
+    bottom: 1%;
+    color: beige !important;
+}
+
+.socialicons {
+    color: white !important;
+}
+
+.socialicons:hover{
+    color: beige !important;
+}
+
+.copy {
+    background-color: red;
+    padding: 5px 0px;
+    text-align: center;
+    color: beige;
+    font-size: 16px !important;
+}
